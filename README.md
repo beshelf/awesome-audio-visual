@@ -186,7 +186,7 @@ A curated list of papers and datsets for various audio-visual tasks, inspired by
 - [Image generation associated with music data](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w49/Qiu_Image_Generation_Associated_CVPR_2018_paper.pdf) - Qiu, Y., & Kataoka, H. (CVPRW 2018)
 - [CMCGAN: A uniform framework for cross-modal visual-audio mutual generation](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/17153/16274) - Hao, W., Zhang, Z., & Guan, H. (AAAI 2018)
 
-#### Multi-modal Architectures
+#### Multi-modal Architectures1
 
 - [What Makes Training Multi-Modal Networks Hard?](https://arxiv.org/pdf/1905.12681.pdf) - Wang, W., Tran, D., & Feiszli, M. (arXiv 2019)
 - [MFAS: Multimodal Fusion Architecture Search](http://openaccess.thecvf.com/content_CVPR_2019/papers/Perez-Rua_MFAS_Multimodal_Fusion_Architecture_Search_CVPR_2019_paper.pdf) - Pérez-Rúa, J. M., Vielzeuf, V., Pateux, S., Baccouche, M., & Jurie, F. (CVPR 2019)
