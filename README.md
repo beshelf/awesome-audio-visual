@@ -191,7 +191,7 @@ A curated list of papers and datsets for various audio-visual tasks, inspired by
 - [What Makes Training Multi-Modal Networks Hard?](https://arxiv.org/pdf/1905.12681.pdf) - Wang, W., Tran, D., & Feiszli, M. (arXiv 2019)
 - [MFAS: Multimodal Fusion Architecture Search](http://openaccess.thecvf.com/content_CVPR_2019/papers/Perez-Rua_MFAS_Multimodal_Fusion_Architecture_Search_CVPR_2019_paper.pdf) - Pérez-Rúa, J. M., Vielzeuf, V., Pateux, S., Baccouche, M., & Jurie, F. (CVPR 2019)
 
-#### Uncategorized Papers
+#### Uncategorized Papers1
 
 - [Audio-Visual Floorplan Reconstruction]() - S. Purushwalkam, S. V. A. Gari, V. K. Ithapu, C. Schissler, P. Robinson, A. Gupta, K. Grauman (ICCV 2021) [[code]](https://github.com/senthilps8/avmap) [[project page]](https://www.cs.cmu.edu/~spurushw/publication/avmap/)
 - [GLAVNet: Global-Local Audio-Visual Cues for Fine-Grained Material Recognition]() - (CVPR 2021)
